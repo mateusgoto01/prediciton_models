@@ -28,11 +28,6 @@
   - [Digit Classification](#q2)
   - [Regression Task](#q3)
   - [Language Identification](#q4)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 This project serves as an introduction to machine learning. It includes the implementation and training of Perceptron and neural network models for various tasks such as regression, digit classification, and language identification.
@@ -62,7 +57,7 @@ python autograder.py -q q1
 ```
 You should see the results like:
 
-![Q1](https://imgur.com/MLzgqPE)
+![Q1](https://i.imgur.com/MLzgqPE.png)
 
 ## Non-linear Regression <a name="q2"></a>
 
@@ -85,7 +80,7 @@ Running the Code: To train and test the digit classification model, run:
 python autograder.py -q q3
 ```
 
-![Q3](https://imgur.com/tuYqHJR)
+![Q3](https://i.imgur.com/tuYqHJR.png)
 ## Language Identification <a name="q4"></a>
 Description: Create a neural network model to identify languages from text samples. The model processes textual data and uses features such as character or word frequencies to determine the language of the input text. The aim is to accurately classify the language from a set of predefined options.
 
