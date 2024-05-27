@@ -61,4 +61,6 @@ Running the Code: To train and test the Perceptron model, run:
 ```bas
 python autograder.py -q q1
 ```
+You should see the results like:
+![Alt Text](https://imgur.com/a/Q7YPc8o)
 
