@@ -62,5 +62,5 @@ Running the Code: To train and test the Perceptron model, run:
 python autograder.py -q q1
 ```
 You should see the results like:
-[Q1](https://i.imgur.com/UkJuV0j.png)
+![Q1](https://i.imgur.com/UkJuV0j.png)
 
