@@ -24,9 +24,11 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Installation](#installation)
-- [Running the Project](#running)
-- [Usage](#usage)
 - [Showcase](#showcase)
+  - [Perceptron Training](#q1)
+  - [Digit Classification](#q2)
+  - [Regression Task](#q3)
+  - [Language Identification](#q4)
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
@@ -48,3 +50,15 @@ To install these libraries, use the following commands:
 ```bash
 pip install numpy
 pip install matplotlib
+```
+## 🌟 Showcase <a name="showcase"></a>
+This section showcases the solutions to each problem:
+## Perceptron Training <a name="q1"></a>
+
+Description: Implement and train a Perceptron model to classify linearly separable data. The Perceptron algorithm adjusts weights based on misclassifications during training, aiming to find a decision boundary that separates different classes.
+
+Running the Code: To train and test the Perceptron model, run:
+```bas
+python autograder.py -q q1
+```
+
